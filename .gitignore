@@ -7,5 +7,6 @@ Desktop.ini
 *.so
 *.egg
 *.egg-info
+.idea
 dist
 build
